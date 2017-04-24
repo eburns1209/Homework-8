@@ -1,0 +1,30 @@
+{
+  "name": "homework-8",
+  "version": "1.0.0",
+  "description": "holds the files I will need for project",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eburns1209/Homework-8.git"
+  },
+  "keywords": [
+    "twitter",
+    "movies",
+    "music"
+  ],
+  "author": "e.stowe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eburns1209/Homework-8/issues"
+  },
+  "homepage": "https://github.com/eburns1209/Homework-8#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  }
+}
