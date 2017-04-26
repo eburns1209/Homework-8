@@ -63,9 +63,9 @@ function getTweets(){
 			 	console.log(tweets[i].text);
 			 }
 			 
-			}
+		}
 		
-		});
+	});
 			
 };//end getTweets
 
