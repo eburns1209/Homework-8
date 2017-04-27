@@ -80,7 +80,7 @@ function spotifyMe(song){
 	//variable for search term, test if defind
 	 var searchTrack;
 	 if (secondCommand === undefined){
-	searchTrack = "What's My Age Again?";
+	searchTrack = "The Sign";
 	 }else{
 	 	searchTrack = secondCommand;
 	 	  }
